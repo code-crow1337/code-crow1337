@@ -12,6 +12,7 @@ At my core I'm a creative person that likes to create. It can either be in art f
 
 ## ✉ Contact me
 [<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/josephine-een/)
+[<img src="https://img.icons8.com/fluent/96/000000/gmail.png"/>](mailto:josephine.een@gmail.com?subject=[GitHub])
 
 ## 💻 Skills  and Tools
 <img align="left" src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5"/>
