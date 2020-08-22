@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I'm a huge gamer and a fantasy fan🎮. 
 
 ## 🧙‍♀️ Who am I?
-I have always had a huge interest in technology. So, since my earlier years I have known that I wanted to work with something inside tech.
+I have always had a big interest in technology. So, since my earlier years I have known that I wanted to work with something inside tech.
 At my core I'm a creative person that likes to create. It can either be in art form such as watercolours or coding my next tech idéa. I also love to learn new things and try those new skills out, or refactor something that can be even better!🎨
 
 
