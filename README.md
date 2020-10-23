@@ -1,7 +1,7 @@
 # Hi there, I'm Josephine 
 <br>
 
-- 🔭 I’m currently working on my recipe react app [FLAVORIE](https://github.com/code-crow1337/FLAVORIE-React-Recipe)
+- 🔭 I’m currently working on my chat app in react [CHAT SKY](https://code-crow1337-chat-application.herokuapp.com/)
 - 🌱 I’m currently learning <img src="https://img.icons8.com/color/28/000000/flutter.png"/> Flutter for a future party game app
 - ⚡ Fun fact: I'm a huge gamer and a fantasy fan🎮. 
 
