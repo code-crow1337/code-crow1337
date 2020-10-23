@@ -20,6 +20,7 @@ At my core I'm a creative person that likes to create. It can either be in art f
 <img align="left" src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/flutter.png" alt="Flutter"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/react-native.png" alt="react"/>
+<img align="left" src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/typescript.png" alt="Typescript"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/>
 <img align="left" src="https://img.icons8.com/color/96/000000/graphql.png" alt="graphql"/>
