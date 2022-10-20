@@ -1,8 +1,6 @@
 # Hi there, I'm Josephine 
 <br>
 
-- 🌱 I’m currently learning <img src="https://img.icons8.com/color/28/000000/flutter.png"/> Flutter for a future party game app
-- ⚡ Fun fact: I'm a huge gamer and a fantasy fan🎮. 
 
 ## 🧙‍♀️ Who am I?
 I have always had a big interest in technology. So, since my earlier years I have known that I wanted to work with something inside tech.
